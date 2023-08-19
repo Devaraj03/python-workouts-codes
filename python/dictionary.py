@@ -1,0 +1,11 @@
+dict={"name":"jhon","age":20,"country":"india","list1":[1,2,3,4,5]}
+print(dict.get("name"))
+print(dict.get("age"))
+print(dict.get("country"))
+print(dict.get("list1"))
+x=dict.items()
+y=dict.keys()
+z=dict.values()
+print(x)
+print(y)
+print(z)
